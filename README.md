@@ -1,3 +1,7 @@
+## Parcours français
+
+Ce fork propose un parcours documentaire francophone : [voir docs/fr](./docs/fr/).
+
 # Synthetix v3
 
 [![codecov](https://codecov.io/gh/Synthetixio/synthetix-v3/branch/main/graph/badge.svg?token=B9BK0U5KAT)](https://codecov.io/gh/Synthetixio/synthetix-v3)
